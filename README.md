@@ -19,8 +19,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jobin John</h1>
 <h3 align="center">A passionate software engineer from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mystigan" alt="mystigan" /> </p>
-<p align="left"> <img src="https://badges.pufler.dev/repos/mystigan" alt="mystigan" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mystigan" alt="mystigan" />  <img src="https://badges.pufler.dev/repos/mystigan" alt="mystigan" /></p>
 
 - 🔭 I’m currently working with **Golang** and **Java** to build monitoring solutions for databases and applications.
 
@@ -43,7 +42,7 @@ Here are some ideas to get you started:
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
 <p align = "center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mystigan&layout=compact&theme=dark" alt="mystigan" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mystigan&show_icons=true&theme=radical" alt="mystigan" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mystigan&show_icons=true&theme=radical" alt="mystigan" width=50% />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mystigan&layout=compact&theme=dark" alt="mystigan" width=45% />
 </p>
 </details>
