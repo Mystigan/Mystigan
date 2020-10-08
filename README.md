@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p align = "center">
+<p align = "left">
   <img src="https://github.com/Mystigan/Mystigan/blob/main/assets/gopher-workout.gif" alt="Golang" width=100 height=100>
   <img src="https://github.com/Mystigan/Mystigan/blob/main/assets/java.svg" alt="Java" width=100 height=100>
   <img src="https://github.com/Mystigan/Mystigan/blob/main/assets/vscode.svg" alt="VSCode" width=100 height=100>
