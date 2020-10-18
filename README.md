@@ -4,7 +4,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mystigan" alt="mystigan" />
   &emsp;
-  [![Repos Badge](https://badges.pufler.dev/repos/puf17640)](https://badges.pufler.dev)
+  [![Repos Badge](https://badges.pufler.dev/repos/mystigan)](https://badges.pufler.dev)
   <img src="https://badges.pufler.dev/repos/mystigan" alt="mystigan" />
 </p>
 
