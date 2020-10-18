@@ -4,8 +4,7 @@
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=mystigan" alt="mystigan" />
   &emsp;
-  [![Repos Badge](https://badges.pufler.dev/repos/mystigan)](https://badges.pufler.dev)
-  <img src="https://badges.pufler.dev/repos/mystigan" alt="mystigan" />
+  <img src="https://badges.pufler.dev/repos/Mystigan" alt="mystigan" />
 </p>
 
 - 🔭 I’m currently working with **Golang** and **Java** to build monitoring solutions for databases and applications.
