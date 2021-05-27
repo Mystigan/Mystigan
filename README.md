@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working with **Golang** and **Java** to build monitoring solutions for databases and applications.
 
-- 🌱 I’m currently learning **Golang**, **Data Structures** and **Algorithms**
+- 🌱 I’m currently learning **Data Structures** and **Algorithms**
 
 - 👯 I’m looking to collaborate on **Golang** based open source projects.
 
