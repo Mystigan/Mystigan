@@ -7,7 +7,7 @@
   <img src="https://badges.pufler.dev/repos/Mystigan" alt="mystigan" />
 </p>
 
-- 🔭 I’m currently working with **Golang** and **Java** to build monitoring solutions for databases and applications.
+- 🔭 I’m currently working with **Golang** to build backend solutions using microservice architecture.
 
 - 🌱 I’m currently learning **Data Structures** and **Algorithms**
 
